@@ -24,6 +24,5 @@ Sou uma ex-professora de inglês buscando migração de carreira para a área te
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolagerasso&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paolagerasso&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paolagerasso&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=paolagerasso&repo=bootcamp-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/paolagerasso/bootcamp-dio)
 
 
